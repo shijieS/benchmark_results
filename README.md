@@ -59,7 +59,7 @@
 |    ACFN     |    0.607     |        0.86        |   0.575    |      0.802       |           |                 |       Y       |   Y(15)    |
 |     CF2     |    0.605     |       0.891        |   0.562    |      0.837       |   0.513   |      0.803      |       Y       |   N(11)    |
 |     HDT     |    0.603     |       0.889        |   0.654    |      0.848       |   0.515   |      0.804      |       Y       |   N(10)    |
-|   Staple    |     0.6      |       0.793        |   0.578    |      0.784       |     -     |        -        |       N       |   Y(80)    |
+|   **Staple**    |     0.6      |       0.793        |   0.578    |      0.784       |     -     |        -        |       N       |   Y(80)    |
 |   CSR-DCF   |    0.599     |        0.8         |   0.598    |      0.733       |           |                 |       N       |   Y(13)    |
 |    FCNT     |    0.599     |       0.856        |     -      |        -         |     -     |        -        |       Y       |    N(1)    |
 |   CNN-SVM   |    0.597     |       0.852        |   0.554    |      0.814       |   0.512   |      0.769      |       Y       |     N      |
@@ -286,7 +286,7 @@
   [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr16_hedge_tracking.pdf)]
   [[project](https://sites.google.com/site/yuankiqi/hdt/)]
 
-* **Staple:** Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H.S. Torr. 
+* **Staple: Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H.S. Torr. **
   "Staple: Complementary Learners for Real-Time Tracking." CVPR (2016). 
   [[paper](http://120.52.73.75/arxiv.org/pdf/1512.01355v2.pdf)]
   [[project](http://www.robots.ox.ac.uk/~luca/staple.html)]
@@ -463,7 +463,7 @@
   "Re3 : Real-Time Recurrent Regression Networks for Object Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1705.06368.pdf)]
 
-* **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
+* **DCFNet: Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. **
   "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
